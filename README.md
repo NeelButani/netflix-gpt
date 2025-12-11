@@ -13,3 +13,11 @@
   - NetflixGPT
      - Search Bar 
      - Movie Suggestions
+
+
+# Done itmes
+  - CRA
+  - Configured tailwind
+  - Header
+  - Login form
+
